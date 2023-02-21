@@ -132,6 +132,9 @@ body{
     }
 }
 /* skill section start */
+.about-list ul{
+    list-style: none;
+}
 
 .service{
     margin-top: 35px;
